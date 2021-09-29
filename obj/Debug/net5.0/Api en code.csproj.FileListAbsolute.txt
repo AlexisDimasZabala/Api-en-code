@@ -1,0 +1,58 @@
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\appsettings.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.exe
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.deps.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.runtimeconfig.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.runtimeconfig.dev.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\ref\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Api en code.pdb
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.csprojAssemblyReference.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.AssemblyInfoInputs.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.AssemblyInfo.cs
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.csproj.CoreCompileInputs.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\staticwebassets\Api en code.StaticWebAssets.Manifest.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\staticwebassets\Api en code.StaticWebAssets.xml
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\scopedcss\bundle\Api en code.styles.css
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.RazorTargetAssemblyInfo.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.csproj.CopyComplete
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\ref\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.pdb
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code\obj\Debug\net5.0\Api en code.genruntimeconfig.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.csprojAssemblyReference.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.AssemblyInfoInputs.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.AssemblyInfo.cs
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.csproj.CoreCompileInputs.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\ref\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.pdb
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\appsettings.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.exe
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.deps.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.runtimeconfig.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.runtimeconfig.dev.json
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\ref\Api en code.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Api en code.pdb
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\staticwebassets\Api en code.StaticWebAssets.Manifest.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\staticwebassets\Api en code.StaticWebAssets.xml
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\scopedcss\bundle\Api en code.styles.css
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.RazorTargetAssemblyInfo.cache
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.csproj.CopyComplete
+C:\Users\angry\OneDrive\Documentos\Ites Tercero\Aplicaciones Movil\Api en code ejemplo\Api en code\obj\Debug\net5.0\Api en code.genruntimeconfig.cache

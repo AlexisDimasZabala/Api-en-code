@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6Z3bWTgquZDG4u147YGhzvfrDOUk/cNSsy2lpOO+5t7kTluXHONgHaidKeOUhVhfyq6Aj+l3drjMwzMOjKgdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angry\\OneDrive\\Documentos\\Ites Tercero\\Aplicaciones Movil\\Api en code ejemplo\\Api en code\\Api en code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angry\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\angry\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\angry\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\angry\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\angry\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\angry\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
