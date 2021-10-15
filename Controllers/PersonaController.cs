@@ -2,6 +2,7 @@ using System.Linq;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Api_en_code.Models;
+using Api_en_code.Services;
 
 namespace Api_en_code.Controllers
 {
@@ -9,72 +10,10 @@ namespace Api_en_code.Controllers
     [Route("api/[controller]")]
     public class PersonaController : ControllerBase
     {
-        //private readonly List<Persona> personas = new List<Persona>();
 
         public PersonaController()
-        {/*
-            personas.Add(new Persona(){
-                Id = 1,
-                Nombre = "Juan pedro",
-                Email = "Juan@gmail.com",
-                Domicilio = "J.Pedro 7569",
-                Telefono = "0000000001",
-                Activo = true
-            });
+        {
 
-            personas.Add(new Persona(){
-                Id = 2,
-                Nombre = "Maria Tulin",
-                Email = "Maria@gmail.com",
-                Domicilio = "Gaich 1151",
-                Telefono = "0000000002",
-                Activo = true
-            });
-
-            personas.Add(new Persona(){
-                Id = 3,
-                Nombre = "Fede Garcia",
-                Email = "Fede@gmail.com",
-                Domicilio = "Moreno 849",
-                Telefono = "0000000003",
-                Activo = true
-            });
-
-            personas.Add(new Persona(){
-                Id = 4,
-                Nombre = "Mario Huck",
-                Email = "Huck@gmail.com",
-                Domicilio = "Gonzales 4555",
-                Telefono = "0000000004",
-                Activo = true
-            });
-
-            personas.Add(new Persona(){
-                Id = 5,
-                Nombre = "Daiana Fordi",
-                Email = "Dai@gmail.com",
-                Domicilio = "Gonzales 2560",
-                Telefono = "0000000005",
-                Activo = true
-            });
-
-            personas.Add(new Persona(){
-                Id = 6,
-                Nombre = "Lucas Older",
-                Email = "LucOld@gmail.com",
-                Domicilio = "Huncal 455",
-                Telefono = "0000000006",
-                Activo = true
-            });
-
-            personas.Add(new Persona(){
-                Id = 7,
-                Nombre = "Gaston Muchit",
-                Email = "Gasti@gmail.com",
-                Domicilio = "Torres 878",
-                Telefono = "0000000007",
-                Activo = true
-            });*/
         }
          //-------------------------Personas all -------------------
         [HttpGet]
@@ -88,10 +27,12 @@ namespace Api_en_code.Controllers
         {
             var per = PersonaServices.Services.PersonaServices.Get(id);//PersonaServices.Get(); //Persona.Get(id);
 
-            if(per == null)
+            if(per == null){
                 return NotFound();
-
-            return Ok(per);
+            }
+            else{
+                return Ok(per);
+            }
         }
         
         //-------------------------Personas create-------------------

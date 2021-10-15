@@ -12,87 +12,68 @@ namespace PersonaServices.Services
         {
             personas = new List<Persona>
             {
+                new Persona{
+                    Id=0,CodPaciente=6548,Nombre="Juan",Apellido="Gomez",Email = "Juan@gmail.com",
+                    Edad=25,GrupoSanguineo="A+",Telefono="2954715682",Riesgo="Si",VacCovid="D1",
+                    Domicilio="Jmarquez 412",Alcohol="Ocasional",Tabaco="Habitual",Drogas="Niega",
+                    Infusiones="Ocasional",Respiratorio="Sin dato",Neurologico="sin dato",
+                    Quirurgico="sin dato",Alergias="3 Alerg",Activo = true},
                 new Persona {
-                    Id = 1,
-                    Nombre = "Juan pedro",
-                    Email = "Juan@gmail.com",
-                    Domicilio = "J.Pedro 7569",
-                    Telefono = "0000000001",
-                    Activo = true
-                    },
-
+                    Id = 1,CodPaciente = 6548,Nombre = "Mario",Apellido="Hostinguer",Email = "Mario@gmail.com",
+                    Edad=28,GrupoSanguineo="AB+",Telefono="2954080201",Riesgo="No",VacCovid="D1",
+                    Domicilio = "Huncal 962",Alcohol="Niega",Tabaco="Ocasional",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="1 Proc",
+                    Quirurgico="2 Proc",Alergias="3 Alerg",Activo = true},
                 new Persona {
-                    Id = 2,
-                    Nombre = "Maria Tulin",
-                    Email = "Maria@gmail.com",
-                    Domicilio = "Gaich 1151",
-                    Telefono = "0000000002",
-                    Activo = true
-                    },
-
+                    Id = 2,CodPaciente = 6587,Nombre = "Lucas",Apellido="Longer",Email = "Lucas@gmail.com",
+                    Edad=54,GrupoSanguineo="O-",Telefono="2954050701",Riesgo="Si",VacCovid="D1 D2",
+                    Domicilio = "Robert 910",Alcohol="Ocasional",Tabaco="Niega",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="2 Proc",
+                    Quirurgico="1 Proc",Alergias="3 Alerg",Activo = true},
                 new Persona {
-                    Id = 3,
-                    Nombre = "Fede Garcia",
-                    Email = "Fede@gmail.com",
-                    Domicilio = "Moreno 849",
-                    Telefono = "0000000003",
-                    Activo = true
-                    },
-
+                    Id = 3,CodPaciente = 6598,Nombre = "Sofia",Apellido = "Zuler",Email = "Sofia@gmail.com",
+                    Edad=42,GrupoSanguineo="A-",Telefono="2954030708",Riesgo="No",VacCovid="D1 D2",
+                    Domicilio = "Vespert 276",Alcohol="Habitual",Tabaco="Niega",Drogas="Niega",
+                    Infusiones="Ocasional",Respiratorio="sin dato",Neurologico="sin dato",
+                    Quirurgico="1 Proc",Alergias="sin dato",Activo = true},
                 new Persona{
-                    Id = 4,
-                    Nombre = "Mario Huck",
-                    Email = "Huck@gmail.com",
-                    Domicilio = "Gonzales 4555",
-                    Telefono = "0000000004",
-                    Activo = true
-                    },
-
+                    Id = 4,CodPaciente = 6689,Nombre = "Mirta",Apellido="Paez" ,Email = "Mirta@gmail.com",
+                    Edad=32,GrupoSanguineo="AB-",Telefono="2954508060",Riesgo="No",VacCovid="D1",
+                    Domicilio = "Uruaguay 1054",Alcohol="Niega",Tabaco="Habitual",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="sin dato",
+                    Quirurgico="sin dato",Alergias="2 Proc",Activo = true},
                 new Persona{
-                    Id = 5,
-                    Nombre = "Daiana Fordi",
-                    Email = "Dai@gmail.com",
-                    Domicilio = "Gonzales 2560",
-                    Telefono = "0000000005",
-                    Activo = true
-                    },
-
+                    Id = 5,CodPaciente = 6656,Nombre = "Gillermina",Apellido="Alvez" ,Email = "Gille@gmail.com",
+                    Edad=19,GrupoSanguineo="B-",Telefono="2954817090",Riesgo="No",VacCovid="",
+                    Domicilio = "Duar 25",Alcohol="Habitual",Tabaco="Habitual",Drogas="Ocasional",
+                    Infusiones="Ocasional",Respiratorio="sin dato",Neurologico="sin dato",
+                    Quirurgico="sin dato",Alergias="1 Alerg",Activo = true},
                 new Persona{
-                    Id = 6,
-                    Nombre = "Lucas Older",
-                    Email = "LucOld@gmail.com",
-                    Domicilio = "Huncal 455",
-                    Telefono = "0000000006",
-                    Activo = true
-                    },
-
+                    Id = 6,CodPaciente = 6623,Nombre = "Lautaro", Apellido="Torres",Email = "Lau@gmail.com",
+                    Edad=23,GrupoSanguineo="A+",Telefono="2954001133",Riesgo="Si",VacCovid="D1",
+                    Domicilio = "LGan 73",Alcohol="Ocasional",Tabaco="Niega",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="sin dato",Neurologico="sin dato",
+                    Quirurgico="sin dato",Alergias="4 Alerg",Activo = true},
                 new Persona{
-                    Id = 7,
-                    Nombre = "Gaston Muchit",
-                    Email = "Gasti@gmail.com",
-                    Domicilio = "Torres 878",
-                    Telefono = "0000000007",
-                    Activo = true
-                },
+                    Id = 7,CodPaciente = 6521,Nombre = "Hugo", Apellido="Furres",Email = "hugo@gmail.com",
+                    Edad=36,GrupoSanguineo="AB+",Telefono="2954889977",Riesgo="No",VacCovid="D1 D2",
+                    Domicilio = "Bolivar 604",Alcohol="Habitual",Tabaco="Habitual",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="2 Proc",
+                    Quirurgico="sin dato",Alergias="1 Alerg",Activo = true},
                 new Persona { 
-                    Id = 8,
-                    Nombre = "diams",
-                    Email = "diams@gmail.com",
-                    Domicilio = "ljuan 7569",
-                    Telefono = "0000000008",
-                    Activo = true
-                    },
+                    Id = 8,CodPaciente = 6512,Nombre = "dimas",Email = "dimas@gmail.com",
+                    Edad=23,GrupoSanguineo="A+",Telefono="2954701325",Riesgo="No",VacCovid="D1 D2",
+                    Domicilio = "Juana manso",Alcohol="Ocasional",Tabaco="Habitual",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="sin dato",
+                    Quirurgico="sin dato",Alergias="1 Alerg",Activo = true},
                 new Persona { 
-                    Id = 9,
-                    Nombre = "Juan pedro",
-                    Email = "Juan@gmail.com",
-                    Domicilio = "J.Pedro 7569",
-                    Telefono = "0000000009",
-                    Activo = true
-                    }
+                    Id = 9, CodPaciente = 6500,Nombre = "Soledad",Apellido="Ernandez",Email = "Juan@gmail.com",
+                    Edad=35,GrupoSanguineo="B+",Telefono="2954010506",Riesgo="No",VacCovid="D1 D2",
+                    Domicilio = "Huncal 962",Alcohol="Niega",Tabaco="Ocasional",Drogas="Niega",
+                    Infusiones="Niega",Respiratorio="1 Proc",Neurologico="1 proc",
+                    Quirurgico="sin dato",Alergias="sin dato",Activo = true}
             };
         }
-
         public static List<Persona> GetAll() => personas;
 
         public static Persona Get(int id) => personas.FirstOrDefault(p => p.Id == id);
