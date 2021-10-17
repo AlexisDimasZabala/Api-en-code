@@ -16,16 +16,44 @@ namespace Api_en_code.Services
                     Contra = "123456"
                     },
                 new Usuario {
-                    Nombre = "Juan_pedro",
+                    Nombre = "Juan_gomez",
                     Contra = "juan123"
                     },
                 new Usuario {
-                    Nombre = "Maria_Tulin",
-                    Contra = "maria123",
+                    Nombre = "Mario_hostinguer",
+                    Contra = "mario123",
                     },
                 new Usuario {
-                    Nombre = "Daiana_Fordi",
-                    Contra = "daiana123",
+                    Nombre = "Lucas_longer",
+                    Contra = "lucas123",
+                    },
+                new Usuario {
+                    Nombre = "Sofia_zuler",
+                    Contra = "sofia123",
+                    },
+                new Usuario {
+                    Nombre = "Mirta_paez",
+                    Contra = "mirta123",
+                    },
+                new Usuario {
+                    Nombre = "Gillermina_alves",
+                    Contra = "gillermina123",
+                    },
+                new Usuario {
+                    Nombre = "Lautaro_torres",
+                    Contra = "lautaro123",
+                    },
+                new Usuario {
+                    Nombre = "Hugo_furres",
+                    Contra = "hugo123",
+                    },
+                new Usuario {
+                    Nombre = "Dimas_zabala",
+                    Contra = "dimas123",
+                    },
+                new Usuario {
+                    Nombre = "Soledad_ernandez",
+                    Contra = "soledad123",
                     },
                 new Usuario {
                     Nombre = "admin",

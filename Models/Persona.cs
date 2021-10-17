@@ -15,7 +15,7 @@ namespace Api_en_code.Models
         public string Email { get; set; }
         public string Telefono { get; set; }
         public string Foto { get; set; }
-        public bool Activo { get; set; }
+        public float Rating { get; set; }
 
         //Datos Persona historial
         public string Domicilio { get; set; }
